@@ -51,3 +51,6 @@ core/lib/plugin-update-checker-*.zip
 .env
 .env.local
 .env.*.local
+
+# Claude instructions (internal use only)
+claude.md
